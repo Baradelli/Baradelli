@@ -25,7 +25,7 @@ My current focus is **AI**: building AI-assisted products and workflows that mak
 
 Right now, I am especially interested in:
 
-- building AI-focused full-stack products with **TypeScript, React, Next.js, Node.js, Fastify, Prisma, PostgreSQL, SQLite, and Tailwind**;
+- building AI-focused full-stack products with **TypeScript, React, Next.js, Node.js, Prisma, PostgreSQL, SQLite, and Tailwind**;
 - designing small but deep systems around real user workflows;
 - using AI as a study and productivity assistant, while keeping humans in control;
 - documenting what I learn so projects become useful to other developers too.
@@ -34,10 +34,6 @@ Right now, I am especially interested in:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,prisma,postgres,sqlite,tailwind,vite,vitest,docker,go,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Prisma, PostgreSQL, SQLite, Tailwind, Vite, Vitest, Docker, Go, Git, and GitHub" />
-</p>
-
-<p align="center">
-  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </p>
 
 ## GitHub Activity
