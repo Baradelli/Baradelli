@@ -33,14 +33,6 @@ Right now, I am especially interested in:
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,fastify,prisma,postgres,sqlite,tailwind,vite,vitest,docker,go,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Fastify, Prisma, PostgreSQL, SQLite, Tailwind, Vite, Vitest, Docker, Go, Git, and GitHub" />
 </p>
 
-## Areas I'm Exploring
-
-- **Learning systems:** spaced repetition, active recall, language learning, algorithms, and deliberate practice.
-- **Personal software:** local-first or single-user tools that solve real problems without unnecessary infrastructure.
-- **Full-stack architecture:** domain modeling, monorepos, APIs, validation, persistence, shared contracts, and tests.
-- **AI-assisted products:** prompt workflows, human review, study helpers, and optional API integration.
-- **Technical writing:** READMEs, study guides, architecture notes, and documentation that helps others understand the work.
-
 ## GitHub Activity
 
 <p align="center">
