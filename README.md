@@ -33,7 +33,11 @@ Right now, I am especially interested in:
 ## Tech I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,fastify,prisma,postgres,sqlite,tailwind,vite,vitest,docker,go,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Fastify, Prisma, PostgreSQL, SQLite, Tailwind, Vite, Vitest, Docker, Go, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,prisma,postgres,sqlite,tailwind,vite,vitest,docker,go,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Prisma, PostgreSQL, SQLite, Tailwind, Vite, Vitest, Docker, Go, Git, and GitHub" />
+</p>
+
+<p align="center">
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </p>
 
 ## GitHub Activity
