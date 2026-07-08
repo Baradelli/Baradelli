@@ -62,31 +62,6 @@ Right now, I am especially interested in:
   </tr>
 </table>
 
-## More Projects Worth Checking
-
-<p align="center">
-  <a href="https://github.com/Baradelli/sass-rbac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baradelli&repo=sass-rbac&theme=tokyonight&hide_border=true" alt="SaaS RBAC repository card" />
-  </a>
-  <a href="https://github.com/Baradelli/gympass-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Baradelli&repo=gympass-api&theme=tokyonight&hide_border=true" alt="Gympass API repository card" />
-  </a>
-</p>
-
-## How I Think About Software
-
-```mermaid
-flowchart LR
-  A["Real problem"] --> B["Domain model"]
-  B --> C["Testable architecture"]
-  C --> D["Working product"]
-  D --> E["Daily use"]
-  E --> F["Documented learning"]
-  F --> B
-```
-
-I am drawn to software that is useful before it is impressive. My favorite projects start as a personal itch, become a working tool, and then turn into a way to explain what I learned.
-
 ## Areas I'm Exploring
 
 - **Learning systems:** spaced repetition, active recall, language learning, algorithms, and deliberate practice.
@@ -109,19 +84,6 @@ I am drawn to software that is useful before it is impressive. My favorite proje
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baradelli&theme=react-dark&hide_border=true&area=true" alt="Vitor Baradelli contribution activity graph" />
 </p>
-
-## Start Here
-
-If you want to understand what I build and how I think, these repositories are the best entry points:
-
-1. [English Glossary](https://github.com/Baradelli/english-glossary) - learning system, spaced repetition, AI-assisted study, architecture.
-2. [Devocional](https://github.com/Baradelli/devocional) - product, monorepo, API, PWA, admin, reminders.
-3. [Second Brain](https://github.com/Baradelli/second-brain) - personal knowledge management, productivity, AI, offline-friendly workflows.
-4. [Top 75 LeetCode Study Guide](https://github.com/Baradelli/Top-75-LeetCode-Study-Guide) - algorithms, bilingual explanations, learning discipline.
-5. [SaaS RBAC](https://github.com/Baradelli/sass-rbac) - authorization, roles, permissions, multi-tenant SaaS concepts.
-6. [Gympass API](https://github.com/Baradelli/gympass-api) - backend rules, authentication, Fastify, Prisma, PostgreSQL, tests.
-
----
 
 <p align="center">
   <strong>Building in public, studying with intention, and turning learning into real software.</strong>
