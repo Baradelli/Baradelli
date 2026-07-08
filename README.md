@@ -33,35 +33,6 @@ Right now, I am especially interested in:
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,fastify,prisma,postgres,sqlite,tailwind,vite,vitest,docker,go,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Fastify, Prisma, PostgreSQL, SQLite, Tailwind, Vite, Vitest, Docker, Go, Git, and GitHub" />
 </p>
 
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Baradelli/english-glossary">English Glossary</a></h3>
-      <p>A personal English-learning system for capturing vocabulary from real sources, reviewing it with SM-2 spaced repetition, and generating AI-assisted study prompts.</p>
-      <p><strong>Engineering signal:</strong> hexagonal architecture, pure domain logic, Prisma + SQLite, Zod schemas, Vitest, TDD, and strong documentation.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Baradelli/devocional">Devocional</a></h3>
-      <p>A devotional platform with API, PWA, admin panel, biblical content, personal notes, streaks, achievements, reminders, and rich editorial blocks.</p>
-      <p><strong>Engineering signal:</strong> pnpm monorepo, Fastify, Prisma, PostgreSQL, React, Vite, TipTap, Web Push, Testcontainers, shared packages, and clean product boundaries.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Baradelli/second-brain">Second Brain</a></h3>
-      <p>A personal knowledge management and productivity app that combines capture, daily rituals, library management, goals, spaced repetition, and optional AI assistance.</p>
-      <p><strong>Engineering signal:</strong> mobile-first PWA, offline-friendly flows, shared schemas, Fastify backend, Prisma, PostgreSQL, rich text editing, and testable use cases.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Baradelli/Top-75-LeetCode-Study-Guide">Top 75 LeetCode Study Guide</a></h3>
-      <p>A bilingual study guide with 75 organized LeetCode problems, explanations in Portuguese and English, and supporting material for algorithm practice.</p>
-      <p><strong>Engineering signal:</strong> structured learning, clear categorization, bilingual technical writing, and a focus on fundamentals.</p>
-    </td>
-  </tr>
-</table>
-
 ## Areas I'm Exploring
 
 - **Learning systems:** spaced repetition, active recall, language learning, algorithms, and deliberate practice.
