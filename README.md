@@ -39,11 +39,6 @@ Right now, I am especially interested in:
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baradelli&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vitor Baradelli GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baradelli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Vitor Baradelli most used languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Baradelli&theme=tokyonight&hide_border=true" alt="Vitor Baradelli GitHub streak" />
 </p>
 
