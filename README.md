@@ -34,6 +34,9 @@ Right now, I am especially interested in:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,prisma,postgres,sqlite,tailwind,vite,vitest,docker,go,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Prisma, PostgreSQL, SQLite, Tailwind, Vite, Vitest, Docker, Go, Git, and GitHub" />
+  <br />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 ## GitHub Activity
