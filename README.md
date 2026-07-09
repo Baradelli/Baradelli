@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/vitorbaradelli">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vitorbaradelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://baradelli.github.io">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live%20site-167b6b?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Baradelli&style=for-the-badge&color=2563eb" />
   <img alt="Focus" src="https://img.shields.io/badge/Focus-AI%20products-0f172a?style=for-the-badge" />
 </p>
